@@ -152,7 +152,7 @@ class UserController extends Controller
             return response()->json([
                 'status'=>'success',
                 'message'=>'Email send successful'
-            ]);
+            ],200);
         }catch(Exception $e){
             return response()->json([
                 'status'=>'failled',
@@ -160,5 +160,7 @@ class UserController extends Controller
             ]);
         }
     }// end method
-    
+    function SendMailPage(Request $request){
+        return view('email.SendMail');
+    }
 }

@@ -82,7 +82,7 @@
         <span class="side-bar-item-caption">Customer</span>
     </a>
 
-    <a href="" class="side-bar-item">
+    <a href="{{url('/send-promotionalMail-page')}}" class="side-bar-item">
         <i class="fa fa-chevron-circle-right  text-dark"></i>
         <span class="side-bar-item-caption">Send Mail</span>
     </a>

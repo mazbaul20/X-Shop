@@ -127,7 +127,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   
 <div class="u-row-container" style="padding: 0px;background-color: transparent">
   <div class="u-row" style="margin: 0 auto;min-width: 320px;max-width: 650px;overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;background-color: #040408;">
-    <div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-image: url('images/image-6.png');background-repeat: no-repeat;background-position: center top;background-color: transparent;">
+    <div style="border-collapse: collapse;display: table;width: 100%;height: 100%;background-image: url('{{asset("https://iili.io/HZL6LIs.png")}}');background-repeat: no-repeat;background-position: center top;background-color: transparent;">
       <!--[if (mso)|(IE)]><table width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="padding: 0px;background-color: transparent;" align="center"><table cellpadding="0" cellspacing="0" border="0" style="width:650px;"><tr style="background-image: url('images/image-6.png');background-repeat: no-repeat;background-position: center top;background-color: #040408;"><![endif]-->
       
 <!--[if (mso)|(IE)]><td align="center" width="650" style="width: 650px;padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;" valign="top"><![endif]-->
@@ -144,7 +144,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <tr>
     <td style="padding-right: 0px;padding-left: 0px;" align="left">
       
-      <img align="left" border="0" src="{{ asset('images/promotionalEmail/image-8.png') }}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 23%;max-width: 134.32px;" width="134.32"/>
+      <img align="left" border="0" src="{{ asset('https://iili.io/HZLPrnj.png') }}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 23%;max-width: 134.32px;" width="134.32"/>
       
     </td>
   </tr>
@@ -440,7 +440,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <tr>
     <td style="padding-right: 0px;padding-left: 0px;" align="center">
       
-      <img align="center" border="0" src="{{ asset('images/promotionalEmail/image-11.png') }}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 84%;max-width: 256.2px;" width="256.2"/>
+      <img align="center" border="0" src="{{ asset('https://iili.io/HZLsHzu.png') }}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 84%;max-width: 256.2px;" width="256.2"/>
       
     </td>
   </tr>
@@ -501,7 +501,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
 <div align="center">
   <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:42px; v-text-anchor:middle; width:135px;" arcsize="0%"  stroke="f" fillcolor="#236fa1"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
-    <a href="" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #236fa1; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
+    <a href="{{$link}}" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #236fa1; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
       <span style="display:block;padding:13px 25px;line-height:120%;"><strong><span style="font-size: 14px; line-height: 16.8px;">SHOP NOW</span></strong></span>
     </a>
     <!--[if mso]></center></v:roundrect><![endif]-->
@@ -530,7 +530,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <tr>
     <td style="padding-right: 0px;padding-left: 0px;" align="center">
       
-      <img align="center" border="0" src="{{ asset('images/promotionalEmail/image-7.png') }}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 85%;max-width: 259.25px;" width="259.25"/>
+      <img align="center" border="0" src="{{ asset('https://iili.io/HZLPNF2.png') }}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 85%;max-width: 259.25px;" width="259.25"/>
       
     </td>
   </tr>
@@ -611,7 +611,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
 <div align="center">
   <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:42px; v-text-anchor:middle; width:135px;" arcsize="0%"  stroke="f" fillcolor="#236fa1"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
-    <a href="" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #236fa1; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
+    <a href="{{$link}}" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #236fa1; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
       <span style="display:block;padding:13px 25px;line-height:120%;"><strong><span style="font-size: 14px; line-height: 16.8px;">SHOP NOW</span></strong></span>
     </a>
     <!--[if mso]></center></v:roundrect><![endif]-->
@@ -697,7 +697,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <tr>
     <td style="padding-right: 0px;padding-left: 0px;" align="center">
       
-      <img align="center" border="0" src="{{asset('images/promotionalEmail/image-10.jpeg')}}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 77%;max-width: 234.85px;" width="234.85"/>
+      <img align="center" border="0" src="{{asset('https://iili.io/HZLissf.jpg')}}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 77%;max-width: 234.85px;" width="234.85"/>
       
     </td>
   </tr>
@@ -758,7 +758,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
 <div align="center">
   <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:42px; v-text-anchor:middle; width:135px;" arcsize="0%"  stroke="f" fillcolor="#236fa1"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
-    <a href="" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #236fa1; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
+    <a href="{{$link}}" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #236fa1; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
       <span style="display:block;padding:13px 25px;line-height:120%;"><strong><span style="font-size: 14px; line-height: 16.8px;">SHOP NOW</span></strong></span>
     </a>
     <!--[if mso]></center></v:roundrect><![endif]-->
@@ -787,7 +787,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <tr>
     <td style="padding-right: 0px;padding-left: 0px;" align="center">
       
-      <img align="center" border="0" src="{{asset('images/promotionalEmail/image-9.png')}}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 91%;max-width: 277.55px;" width="277.55"/>
+      <img align="center" border="0" src="{{asset('https://iili.io/HZLigRt.png')}}" alt="Image" title="Image" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 91%;max-width: 277.55px;" width="277.55"/>
       
     </td>
   </tr>
@@ -868,7 +868,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
 <div align="center">
   <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:42px; v-text-anchor:middle; width:135px;" arcsize="0%"  stroke="f" fillcolor="#236fa1"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
-    <a href="" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #236fa1; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
+    <a href="{{$link}}" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #236fa1; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
       <span style="display:block;padding:13px 25px;line-height:120%;"><strong><span style="font-size: 14px; line-height: 16.8px;">SHOP NOW</span></strong></span>
     </a>
     <!--[if mso]></center></v:roundrect><![endif]-->
@@ -1013,7 +1013,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
   <!--[if mso]><style>.v-button {background: transparent !important;}</style><![endif]-->
 <div align="center">
   <!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="" style="height:42px; v-text-anchor:middle; width:136px;" arcsize="0%"  stroke="f" fillcolor="#57a3ca"><w:anchorlock/><center style="color:#FFFFFF;"><![endif]-->
-    <a href="" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #57a3ca; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
+    <a href="{{$link}}" target="_blank" class="v-button" style="box-sizing: border-box;display: inline-block;text-decoration: none;-webkit-text-size-adjust: none;text-align: center;color: #FFFFFF; background-color: #57a3ca; border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px; width:auto; max-width:100%; overflow-wrap: break-word; word-break: break-word; word-wrap:break-word; mso-border-alt: none;font-size: 14px;">
       <span style="display:block;padding:13px 25px;line-height:120%;"><strong><span style="font-size: 14px; line-height: 16.8px;">SHOP NOW</span></strong></span>
     </a>
     <!--[if mso]></center></v:roundrect><![endif]-->
@@ -1069,7 +1069,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
     <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 23px">
       <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
         <a href=" https://twitter.com/mazbaulseo" title="Twitter" target="_blank">
-          <img src="{{ asset('images/promotionalEmail/image-5.png') }}" alt="Twitter" title="Twitter" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+          <img src="{{ asset('https://iili.io/HZL6j71.png') }}" alt="Twitter" title="Twitter" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
         </a>
       </td></tr>
     </tbody></table>
@@ -1079,7 +1079,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
     <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 23px">
       <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
         <a href=" https://www.linkedin.com/in/mazbaul" title="LinkedIn" target="_blank">
-          <img src="{{ asset('images/promotionalEmail/image-2.png') }}" alt="LinkedIn" title="LinkedIn" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+          <img src="{{ asset('https://iili.io/HZLSbZQ.png') }}" alt="LinkedIn" title="LinkedIn" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
         </a>
       </td></tr>
     </tbody></table>
@@ -1089,7 +1089,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
     <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 23px">
       <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
         <a href=" https://www.instagram.com/mazbaul2" title="Instagram" target="_blank">
-          <img src="{{asset('images/promotionalEmail/image-3.png')}}" alt="Instagram" title="Instagram" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+          <img src="{{asset('https://iili.io/HZL4ElI.png')}}" alt="Instagram" title="Instagram" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
         </a>
       </td></tr>
     </tbody></table>
@@ -1099,7 +1099,7 @@ table, td { color: #000000; } #u_body a { color: #0e0e27; text-decoration: none;
     <table align="left" border="0" cellspacing="0" cellpadding="0" width="32" height="32" style="width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px">
       <tbody><tr style="vertical-align: top"><td align="left" valign="middle" style="word-break: break-word;border-collapse: collapse !important;vertical-align: top">
         <a href=" https://www.youtube.com/channel/UCl1LbPslpUhMPJgoFpbQ96w" title="YouTube" target="_blank">
-          <img src="{{ asset('images/promotionalEmail/image-4.png') }}" alt="YouTube" title="YouTube" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
+          <img src="{{ asset('https://iili.io/HZL6cmu.png') }}" alt="YouTube" title="YouTube" width="32" style="outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important">
         </a>
       </td></tr>
     </tbody></table>

@@ -67,7 +67,7 @@
             hideLoader();
 
             if(res.status===201){
-                successToast('Category created successful');
+                successToast('Customer created successful');
                 document.getElementById('save-form').reset();
                 await getList();
             }else{

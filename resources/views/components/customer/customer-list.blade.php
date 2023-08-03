@@ -34,7 +34,6 @@
 <script>
     getList();
     async function getList(){
-
         showLoader();
         let res = await axios.get('/getCustomer');
         hideLoader();
@@ -62,12 +61,16 @@
             tableList.append(row)
         });
 
-        $('.editBtn').on('click',function(){
+        $('.editBtn').on('click',async function(){
             let id=$(this).data('id');
+            await FillUpUpdateForm(id);
+            $('#update-modal').modal('show');
         });
 
         $('.deleteBtn').on('click',function(){
             let id=$(this).data('id');
+            $('#delete-modal').modal('show');
+            $('#deleteID').val(id);
         });
         
         tableData.DataTable({

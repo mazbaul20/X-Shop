@@ -37,17 +37,15 @@ Route::get('/sendOtp',[UserController::class,'SendOtpPage']);
 Route::get('/verifyOtp',[UserController::class,'VerifyOTPPage']);
 Route::get('/resetPassword',[UserController::class,'ResetPasswordPage'])->middleware([TokenVerificationMiddleware::class]);
 Route::get('/dashboard',[UserController::class,'DashboardPage'])->middleware([TokenVerificationMiddleware::class]);
-// test PromotionalEmail Customer
-Route::get('/test',function(){
-    return view('email.PromotionalEmail');
-});
 
 // customer route
 Route::get('/customerPage',[CustomerController::class,'CustomerPage'])->middleware([TokenVerificationMiddleware::class]);
 Route::get('/getCustomer',[CustomerController::class,'GetCustomer'])->middleware([TokenVerificationMiddleware::class]);
 Route::post('/create-customer',[CustomerController::class,'CreateCustomer'])->middleware([TokenVerificationMiddleware::class]);
 Route::put('/update-customer',[CustomerController::class,'UpdateCustomer'])->middleware([TokenVerificationMiddleware::class]);
-Route::delete('/delete-customer',[CustomerController::class,'DeleteCustomer'])->middleware([TokenVerificationMiddleware::class]);
+Route::post('/delete-customer',[CustomerController::class,'DeleteCustomer'])->middleware([TokenVerificationMiddleware::class]);
+Route::post('/customer-by-id',[CustomerController::class,'CustomerById'])->middleware([TokenVerificationMiddleware::class]);
 
 //send promotional email
 Route::post('/send-pmail',[UserController::class,'SendPromotionalMail']);
+Route::get('/send-promotionalMail-page',[UserController::class,'SendMailPage'])->middleware([TokenVerificationMiddleware::class]);
